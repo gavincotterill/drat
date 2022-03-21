@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: rnetcarto
+Version: 0.2.5
+Depends: R (>= 3.5.0)
+Suggests: testthat, knitr, rmarkdown, igraph
+License: GPL (>= 2)
+MD5sum: b239c905e5eb0725d4660d69336b9297
+NeedsCompilation: yes
